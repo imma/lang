@@ -2,6 +2,7 @@
   "require": [
     [ "ruby", "node", "yarn", "java", "bash4", "go" ],
     [ "py27", "py36" ],
-    "vmm"
+    "vmm",
+    "grpc"
   ]
 }
