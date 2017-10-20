@@ -1,7 +1,7 @@
 {
   "require": [
     [ "ruby", "node", "yarn", "java", "bash4", "go" ],
-    [ "py27", "py36" ]
+    [ "py27", "py36" ],
     "vmm"
   ]
 }
