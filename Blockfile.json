@@ -3,6 +3,6 @@
     [ "ruby", "node", "yarn", "java", "bash4" ],
     [ "py27", "py36" ],
     [ "go", "grpc" ],
-    "vmm",
+    "vmm"
   ]
 }
