@@ -1,9 +1,10 @@
 {
   "require": [
+    [ "pkgsrc" ],
     [ "ruby", "node", "yarn", "java", "bash4" ],
     [ "py27", "py36" ],
     [ "go", "grpc" ],
     [ "rust" ],
-    "vmm"
+    [ "vmm" ]
   ]
 }
