@@ -15,11 +15,6 @@
       "py36"
     ],
     [
-      "go",
-      "grpc"
-    ],
-    [
-      "rust",
       "clojure"
     ],
     [
