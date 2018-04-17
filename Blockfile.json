@@ -19,7 +19,8 @@
       "go"
     ],
     [
-      "vmm"
+      "vmm",
+      "node-exe"
     ]
   ],
   "versions": {}
