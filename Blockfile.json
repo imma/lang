@@ -20,7 +20,8 @@
       "rust"
     ],
     [
-      "vmm"
+      "vmm",
+      "lumo"
     ]
   ],
   "versions": {}
