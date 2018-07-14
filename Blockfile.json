@@ -7,7 +7,6 @@
       "ruby",
       "node",
       "yarn",
-      "vue",
       "java",
       "bash4"
     ],
@@ -18,10 +17,6 @@
     [
       "go",
       "rust"
-    ],
-    [
-      "vmm",
-      "lumo"
     ]
   ],
   "versions": {}
