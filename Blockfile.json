@@ -15,8 +15,7 @@
       "py36"
     ],
     [
-      "go",
-      "rust"
+      "go"
     ]
   ],
   "versions": {}
