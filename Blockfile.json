@@ -8,7 +8,8 @@
       "node",
       "yarn",
       "java",
-      "bash4"
+      "bash4",
+      "elixir"
     ],
     [
       "py27",
